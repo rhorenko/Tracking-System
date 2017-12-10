@@ -4,7 +4,7 @@ Tracking system back-end for affilate marketing.
 
 ## Getting Started
 
-Live system deployment on Heroku : https://evening-earth-23557.herokuapp.com/login
+Live system on Heroku : https://evening-earth-23557.herokuapp.com/login
 username: yuval
 password: yuval
 
