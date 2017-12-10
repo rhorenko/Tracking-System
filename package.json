@@ -1,0 +1,20 @@
+{
+  "name": "tracking",
+  "version": "1.0.0",
+  "engines": {
+    "node": "6.11.1",
+    "npm": "3.10.10"
+  },
+  "description": "Tracks clicks and postbacks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Yuval",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1",
+    "mongodb": "^2.2.22"
+  }
+}
